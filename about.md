@@ -1,11 +1,14 @@
 ---
 layout: single
 title: "About"
-permalink: /about/
+permalink: 
 sidebar:
   nav: main
 ---
 
+## Notes
+
+이곳은 주로 수학과 관련된 내용을 정리하는 노트입니다.
 ## About
 
 사회과학, 역사, 경제학에 관심이 많습니다.
