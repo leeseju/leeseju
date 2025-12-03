@@ -5,11 +5,13 @@ main:
   - title: "Research"
     url: /research/
     children:
-      - title: "IO & Antitrust"
-        url: /research/io/
-      - title: "Platform Markets"
-        url: /research/platforms/
-
+      - title: "Mathmatics"
+        url: /research/math/
+      - title: "Microeconomics"
+        url: /research/microeconomics/
+      - title: "Econometrics"
+        url: /research/econometrics/
+        
   - title: "Notes"
     url: /notes/
 
