@@ -3,7 +3,8 @@ description: "경제학 공부를 위한 개인 저장소"
 url: "https://leeseju.github.io"
 baseurl: "/leeseju"   # 이 리포가 leeseju 레포라서, 프로젝트 페이지 주소용
 
-theme: minima   # GitHub Pages 기본 제공 Jekyll 테마
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
 
 # 상단 메뉴에 올릴 페이지들
 header_pages:
@@ -12,7 +13,10 @@ header_pages:
   - notes.md
   - about.md
 
-# (선택) 기본 플러그인
+markdown: kramdown
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-archives
