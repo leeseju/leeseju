@@ -1,11 +1,11 @@
 main:
   - title: "Home"
-    url: /leeseju/
+    url: /leeseju/leeseju
   - title: "Research"
     url: /leeseju/research/
     children:
       - title: "IO & Antitrust"
-        url: /leeseju/research/io/
+        url: /leeseju/leeseju/economics
       - title: "Platform Markets"
         url: /leeseju/research/platforms/
   - title: "Notes"
