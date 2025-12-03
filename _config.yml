@@ -1,17 +1,12 @@
 title: "Seju Lee"
 description: "경제학 공부를 위한 개인 저장소"
 url: "https://leeseju.github.io"
-baseurl: "/leeseju"   # 이 리포가 leeseju 레포라서, 프로젝트 페이지 주소용
+baseurl: "/leeseju"   # leeseju 리포 → 프로젝트 페이지 맞음
 
-theme: minimal-mistakes-jekyll
+# ★ 핵심: theme가 아니라 remote_theme 사용
+remote_theme: "mmistakes/minimal-mistakes"
+
 minimal_mistakes_skin: "default"
-
-# 상단 메뉴에 올릴 페이지들
-header_pages:
-  - index.md
-  - research.md
-  - notes.md
-  - about.md
 
 markdown: kramdown
 
@@ -20,3 +15,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-include-cache   # minimal-mistakes가 권장하는 플러그인
