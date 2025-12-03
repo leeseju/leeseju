@@ -6,7 +6,7 @@ main:
     url: /research/
     children:
       - title: "Mathmatics"
-        url: /research/mathmatics/
+        url: /research/math/
       - title: "Microeconomics"
         url: /research/microeconomics/
       - title: "Econometrics"
