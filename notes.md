@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: single
 title: "Notes"
 permalink: /notes/
+sidebar:
+  nav: main
 ---
 
 ## Notes
