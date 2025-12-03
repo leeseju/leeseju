@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Research Notes"
+  - title: "Notes"
     url: /notes/
     children:
       - title: "경제학 일반"
