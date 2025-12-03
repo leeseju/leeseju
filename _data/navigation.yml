@@ -1,0 +1,16 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Research Notes"
+    url: /notes/
+    children:
+      - title: "경제학 일반"
+        url: /notes/economics/
+      - title: "수학"
+        url: /notes/math/
+      - title: "통계와 계량"
+        url: /notes/stats/
+
+  - title: "About"
+    url: /about/
