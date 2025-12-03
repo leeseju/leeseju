@@ -6,10 +6,6 @@ permalink: /research/
 
 ## Research
 
-Here I collect:
-
-- Project ideas on digital platforms and competition
-- Empirical designs
-- Links to drafts and slides (later)
+산업조직론, 행동경제학, 실험경제학에 관한 논문, 저서에 대한 생각 정리
 
 Coming soon.
