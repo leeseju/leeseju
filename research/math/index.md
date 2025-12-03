@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Mathmatics"
-permalink: /research/mathmatics/
+permalink: /research/math/
 sidebar:
   nav: main
 ---
