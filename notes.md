@@ -6,10 +6,4 @@ permalink: /notes/
 
 ## Notes
 
-Short notes on:
-
-- Papers I've read
-- Technical tricks in Stata / R / Python
-- Case law and policy reports
-
-I will gradually move my study notes here.
+이곳은 주로 수학과 관련된 내용을 정리하는 노트입니다.
