@@ -1,0 +1,25 @@
+/* Remove underline & simplify theme */
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.7;
+  color: #222;
+  max-width: 780px;
+  margin: auto;
+  padding: 2rem;
+}
+
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+header, footer {
+  border: none;
+  box-shadow: none;
+}
+
+footer {
+  font-size: 0.8rem;
+  color: #777;
+  margin-top: 3rem;
+}
