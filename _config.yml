@@ -1,0 +1,18 @@
+title: "Seju Lee – Academic Notes"
+description: "Economics, competition policy, and research notes."
+url: "https://leeseju.github.io"
+baseurl: "/leeseju"   # 이 리포가 leeseju 레포라서, 프로젝트 페이지 주소용
+
+theme: minima   # GitHub Pages 기본 제공 Jekyll 테마
+
+# 상단 메뉴에 올릴 페이지들
+header_pages:
+  - index.md
+  - research.md
+  - notes.md
+  - about.md
+
+# (선택) 기본 플러그인
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
