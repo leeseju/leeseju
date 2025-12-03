@@ -1,16 +1,14 @@
 main:
   - title: "Home"
-    url: /
-
-  - title: "Notes"
-    url: /notes/
+    url: /leeseju/
+  - title: "Research"
+    url: /leeseju/research/
     children:
-      - title: "경제학 일반"
-        url: /notes/economics/
-      - title: "수학"
-        url: /notes/math/
-      - title: "통계와 계량"
-        url: /notes/stats/
-
+      - title: "IO & Antitrust"
+        url: /leeseju/research/io/
+      - title: "Platform Markets"
+        url: /leeseju/research/platforms/
+  - title: "Notes"
+    url: /leeseju/notes/
   - title: "About"
-    url: /about/
+    url: /leeseju/about/
