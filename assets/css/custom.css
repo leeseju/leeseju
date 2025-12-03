@@ -1,0 +1,42 @@
+.page-with-sidebar {
+  display: flex;
+  gap: 2rem;
+}
+
+/* 왼쪽 메뉴 영역 */
+.sidebar {
+  min-width: 220px;
+  max-width: 260px;
+  font-size: 0.9rem;
+}
+
+.sidebar h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 1.5rem;
+}
+
+.sidebar li {
+  margin-bottom: 0.3rem;
+}
+
+/* 오른쪽 본문 영역 */
+.content-with-sidebar {
+  flex: 1;
+}
+
+/* 모바일에서는 위아래로 쌓이게 */
+@media (max-width: 768px) {
+  .page-with-sidebar {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    max-width: 100%;
+  }
+}
