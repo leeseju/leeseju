@@ -3,10 +3,8 @@ layout: home
 title: "Home"
 ---
 
-Welcome to my academic notes.
+개인적인 공부, 연구에 대한 생각들을 정리하기 위한 저장소입니다.
 
-This site is a simple repository for:
-
-- Research ideas and work-in-progress
-- Notes on industrial organization & competition policy
-- Reading summaries and experiment designs
+현재 주로 생각하는 주제들은 다음과 같습니다.
+- 경제학을 이해하는 데 도움이 되는 수학, 계량경제학, 통계학에 대한 정리
+- 최근 경제학 연구나 이슈에 대한 생각 정리
