@@ -1,6 +1,9 @@
 ---
-layout: home
+layout: single
 title: "Home"
+sidebar:
+  nav: main
+---
 ---
 
 개인적인 공부, 연구에 대한 생각들을 정리하기 위한 저장소입니다.
